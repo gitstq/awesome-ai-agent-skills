@@ -4,7 +4,7 @@
 
 ### 4 Production-Grade Skills That Make Your AI Agent 10x Better
 
-**Compatible with ALL AI coding agents** — Claude Code, Codex CLI, Cursor, Windsurf, GitHub Copilot, CodeBuddy, OpenClaw, and any agent that supports SKILL.md
+**Compatible with ALL AI coding agents** �?Claude Code, Codex CLI, Cursor, Windsurf, GitHub Copilot, CodeBuddy, OpenClaw, and any agent that supports SKILL.md
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Skills Standard](https://img.shields.io/badge/SKILL.md-Standard-blue.svg)](https://openagentskills.dev/docs/specification)
@@ -13,7 +13,7 @@
 
 ---
 
-### ⭐ If you find this useful, please give it a star! ⭐
+### �?If you find this useful, please give it a star! �?
 
 > **One-command install. Zero configuration. Works everywhere.**
 > Just say what you want, and the right skill activates automatically.
@@ -39,7 +39,7 @@ I spent weeks studying the **top 50 most popular AI agent skills** on ClawHub (3
 
 ## 🎯 The 4 Skills
 
-### 1. 🔍 Super Reviewer — 7-in-1 Code Review Engine
+### 1. 🔍 Super Reviewer �?7-in-1 Code Review Engine
 
 **Replaces**: code-review-skill, security-review, lint-skill, and 6 more single-purpose skills
 
@@ -47,27 +47,27 @@ Most code review skills only check style or security. **Super Reviewer** perform
 
 | Dimension | What It Checks |
 |-----------|---------------|
-| ✅ **Correctness** | Logic bugs, null handling, race conditions, edge cases |
+| �?**Correctness** | Logic bugs, null handling, race conditions, edge cases |
 | 🔒 **Security** | OWASP Top 10, injection attacks, auth bypasses, data exposure |
-| ⚡ **Performance** | N+1 queries, memory leaks, algorithm complexity, unnecessary re-renders |
+| �?**Performance** | N+1 queries, memory leaks, algorithm complexity, unnecessary re-renders |
 | 🎨 **Code Style** | Naming conventions, DRY, cyclomatic complexity, magic numbers |
-| 🏗️ **Architecture** | SOLID principles, coupling, design patterns, separation of concerns |
+| 🏗�?**Architecture** | SOLID principles, coupling, design patterns, separation of concerns |
 | 🧪 **Testing** | Coverage gaps, missing edge cases, test quality |
-| ♿ **Accessibility** | WCAG 2.1 AA, ARIA labels, keyboard navigation, screen readers |
+| �?**Accessibility** | WCAG 2.1 AA, ARIA labels, keyboard navigation, screen readers |
 
 **Supports 30+ languages** with framework-specific rules for React, Vue, Angular, Next.js, Express, Django, Spring Boot, Go, Rust, and more.
 
 **Output**: Structured review report with severity levels (CRITICAL/WARNING/INFO), line-level annotations, and copy-paste ready fix suggestions.
 
 ```
-"Review this PR" → Full 7-dimension review report
-"Security audit only" → Security-focused review
-"Brief review" → Only critical and warning issues
+"Review this PR" �?Full 7-dimension review report
+"Security audit only" �?Security-focused review
+"Brief review" �?Only critical and warning issues
 ```
 
 ---
 
-### 2. 🧠 Self Evolver Pro — Self-Improving Memory System
+### 2. 🧠 Self Evolver Pro �?Self-Improving Memory System
 
 **Replaces**: Self-Improving Agent (15K downloads), ByteRover (16K downloads), Capability Evolver (35K downloads)
 
@@ -75,19 +75,19 @@ The #1 complaint about memory skills: **"They store everything but can't dedupli
 
 **Self Evolver Pro** fixes this with:
 
-- **Semantic Deduplication** — Not just string matching. Understands that "use const instead of var" and "don't use var keyword" are the same thing
-- **Lifecycle Management** — Every knowledge entry has a state: `new → active → recurring → promoted → archived`
-- **Auto-Compaction** — Old knowledge is automatically summarized, compressed, and eventually archived to prevent context bloat
-- **Cross-Project Transfer** — Learn coding preferences in Project A, automatically apply them in Project B
-- **Team Collaboration** — Share `.evolver/patterns/` via git, keep signals private
-- **5 Signal Types** — LRN (learning), ERR (error), FEAT (feature request), PREF (preference), PATTERN (recurring solution)
-- **Smart Review Cycle** — Weekly review suggests patterns to promote, merge, or archive
+- **Semantic Deduplication** �?Not just string matching. Understands that "use const instead of var" and "don't use var keyword" are the same thing
+- **Lifecycle Management** �?Every knowledge entry has a state: `new �?active �?recurring �?promoted �?archived`
+- **Auto-Compaction** �?Old knowledge is automatically summarized, compressed, and eventually archived to prevent context bloat
+- **Cross-Project Transfer** �?Learn coding preferences in Project A, automatically apply them in Project B
+- **Team Collaboration** �?Share `.evolver/patterns/` via git, keep signals private
+- **5 Signal Types** �?LRN (learning), ERR (error), FEAT (feature request), PREF (preference), PATTERN (recurring solution)
+- **Smart Review Cycle** �?Weekly review suggests patterns to promote, merge, or archive
 
 **How it works**: No setup. The agent learns from every interaction. Corrections become patterns. Patterns become skills. Skills become permanent knowledge.
 
 ---
 
-### 3. 📋 Context Master — Intelligent Context Manager
+### 3. 📋 Context Master �?Intelligent Context Manager
 
 **Replaces**: All manual "add this to your memory file" approaches
 
@@ -96,16 +96,16 @@ The #1 complaint about memory skills: **"They store everything but can't dedupli
 **Context Master** implements a **3-tier context architecture**:
 
 ```
-┌─ TIER 1: HOT (Always Loaded) ─────────────┐
-│ Current task, active files, recent decisions │
-│ Budget: 30% of context window                │
-├─ TIER 2: WARM (On Demand) ─────────────────┤
-│ File summaries, architecture choices, errors  │
-│ Budget: 40% of context window                │
-├─ TIER 3: COLD (Archived) ──────────────────┤
-│ Old conversations, historical decisions       │
-│ Accessed via semantic search                  │
-└──────────────────────────────────────────────┘
+┌─ TIER 1: HOT (Always Loaded) ─────────────�?
+�?Current task, active files, recent decisions �?
+�?Budget: 30% of context window                �?
+├─ TIER 2: WARM (On Demand) ─────────────────�?
+�?File summaries, architecture choices, errors  �?
+�?Budget: 40% of context window                �?
+├─ TIER 3: COLD (Archived) ──────────────────�?
+�?Old conversations, historical decisions       �?
+�?Accessed via semantic search                  �?
+└──────────────────────────────────────────────�?
 ```
 
 **Key features**:
@@ -116,15 +116,15 @@ The #1 complaint about memory skills: **"They store everything but can't dedupli
 - **Reference counting** to keep important code in context longer
 
 ```
-"Summarize context"    → Compress conversation, keep decisions
-"Context status"       → Show usage percentage and budget
-"Context decisions"    → Show all decisions ever made
-"Context handoff"      → Generate handoff note for next session
+"Summarize context"    �?Compress conversation, keep decisions
+"Context status"       �?Show usage percentage and budget
+"Context decisions"    �?Show all decisions ever made
+"Context handoff"      �?Generate handoff note for next session
 ```
 
 ---
 
-### 4. 🪝 Universal Hooks — Zero-Config Quality Gates
+### 4. 🪝 Universal Hooks �?Zero-Config Quality Gates
 
 **Replaces**: Manual pre-commit setup, scattered CI/CD templates
 
@@ -144,14 +144,14 @@ The skill **auto-detects your project stack** and installs exactly the hooks you
 - Code formatting enforcement (with auto-fix)
 - Linting with zero warnings tolerance
 - Type checking (TypeScript, Python)
-- **Secrets detection** — prevents API keys in commits
-- **Conventional Commits** — enforces commit message format
-- **Protected branches** — blocks direct push to main/develop
-- **Dependency audit** — blocks pushes with known vulnerabilities
-- **AI code markers** — tracks AI-generated code for review
-- **Debug code detection** — catches console.log/debugger before commit
-- **Conflict markers** — catches leftover merge conflict markers
-- **Large file prevention** — warns on files > 500KB
+- **Secrets detection** �?prevents API keys in commits
+- **Conventional Commits** �?enforces commit message format
+- **Protected branches** �?blocks direct push to main/develop
+- **Dependency audit** �?blocks pushes with known vulnerabilities
+- **AI code markers** �?tracks AI-generated code for review
+- **Debug code detection** �?catches console.log/debugger before commit
+- **Conflict markers** �?catches leftover merge conflict markers
+- **Large file prevention** �?warns on files > 500KB
 
 **Plus**: GitHub Actions CI template included out of the box.
 
@@ -163,10 +163,10 @@ The skill **auto-detects your project stack** and installs exactly the hooks you
 
 ```bash
 # macOS / Linux
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/awesome-ai-agent-skills/main/scripts/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/gitstq/awesome-ai-agent-skills/main/scripts/install.sh)
 
 # Or clone first
-git clone https://github.com/YOUR_USERNAME/awesome-ai-agent-skills.git
+git clone https://github.com/gitstq/awesome-ai-agent-skills.git
 cd awesome-ai-agent-skills
 chmod +x scripts/install.sh
 ./scripts/install.sh
@@ -174,7 +174,7 @@ chmod +x scripts/install.sh
 
 ```cmd
 REM Windows
-git clone https://github.com/YOUR_USERNAME/awesome-ai-agent-skills.git
+git clone https://github.com/gitstq/awesome-ai-agent-skills.git
 cd awesome-ai-agent-skills
 scripts\install.bat
 ```
@@ -225,39 +225,39 @@ cp -r skills/universal-hooks ~/.claude/skills/
 ### Super Reviewer
 
 ```
-"Review this code"              → Full 7-dimension review
-"Review this PR"                → PR-focused review with diff analysis
-"Security audit on src/api/"    → Security-only deep dive
-"Check performance"             → Performance-only analysis
-"Brief review"                  → Critical + Warning issues only
+"Review this code"              �?Full 7-dimension review
+"Review this PR"                �?PR-focused review with diff analysis
+"Security audit on src/api/"    �?Security-only deep dive
+"Check performance"             �?Performance-only analysis
+"Brief review"                  �?Critical + Warning issues only
 ```
 
 ### Self Evolver Pro
 
 ```
-"Remember: I prefer tabs over spaces"  → Store preference
-"Evolver status"                       → Show knowledge stats
-"Evolver review"                       → Weekly review
-"Evolver export"                       → Export all patterns
-"Forget about X"                       → Remove a pattern
+"Remember: I prefer tabs over spaces"  �?Store preference
+"Evolver status"                       �?Show knowledge stats
+"Evolver review"                       �?Weekly review
+"Evolver export"                       �?Export all patterns
+"Forget about X"                       �?Remove a pattern
 ```
 
 ### Context Master
 
 ```
-"Summarize context"              → Compress conversation
-"Context status"                 → Show usage stats
-"Context decisions"              → Show all decisions
-"Context handoff"                → Generate handoff note
+"Summarize context"              �?Compress conversation
+"Context status"                 �?Show usage stats
+"Context decisions"              �?Show all decisions
+"Context handoff"                �?Generate handoff note
 ```
 
 ### Universal Hooks
 
 ```
-"Setup git hooks"                → Auto-detect & install all hooks
-"Setup pre-commit only"          → Install only pre-commit
-"Setup CI pipeline"              → Generate GitHub Actions
-"Check hooks status"             → Show active hooks
+"Setup git hooks"                �?Auto-detect & install all hooks
+"Setup pre-commit only"          �?Install only pre-commit
+"Setup CI pipeline"              �?Generate GitHub Actions
+"Check hooks status"             �?Show active hooks
 ```
 
 ---
@@ -266,14 +266,14 @@ cp -r skills/universal-hooks ~/.claude/skills/
 
 | Agent | super-reviewer | self-evolver-pro | context-master | universal-hooks |
 |-------|:-:|:-:|:-:|:-:|
-| **Claude Code** | ✅ | ✅ | ✅ | ✅ |
-| **Codex CLI** | ✅ | ✅ | ✅ | ✅ |
-| **Cursor** | ✅ | ✅ | ✅ | ✅ |
-| **Windsurf** | ✅ | ✅ | ✅ | ✅ |
-| **GitHub Copilot** | ✅ | ✅ | ✅ | ✅ |
-| **CodeBuddy** | ✅ | ✅ | ✅ | ✅ |
-| **OpenClaw / Clawdbot** | ✅ | ✅ | ✅ | ✅ |
-| **Any SKILL.md agent** | ✅ | ✅ | ✅ | ✅ |
+| **Claude Code** | �?| �?| �?| �?|
+| **Codex CLI** | �?| �?| �?| �?|
+| **Cursor** | �?| �?| �?| �?|
+| **Windsurf** | �?| �?| �?| �?|
+| **GitHub Copilot** | �?| �?| �?| �?|
+| **CodeBuddy** | �?| �?| �?| �?|
+| **OpenClaw / Clawdbot** | �?| �?| �?| �?|
+| **Any SKILL.md agent** | �?| �?| �?| �?|
 
 > All skills follow the **Agent Skills open standard** (SKILL.md format).
 > No external dependencies. No API keys. No databases. Just Markdown files.
@@ -286,31 +286,31 @@ cp -r skills/universal-hooks ~/.claude/skills/
 
 | Feature | Self-Improving Agent | Self Evolver Pro |
 |---------|---------------------|------------------|
-| Experience capture | ✅ | ✅ |
-| Deduplication | String match only | ✅ Semantic similarity |
-| Auto-compaction | ❌ | ✅ Age-based compaction |
-| Cross-project transfer | ❌ | ✅ Transferable patterns |
-| Team collaboration | ❌ | ✅ Git-friendly sharing |
-| State management | Basic lifecycle | ✅ Full state machine |
-| Category classification | 3 types | ✅ 5 signal types |
-| Review cycle | ❌ | ✅ Weekly auto-review |
+| Experience capture | �?| �?|
+| Deduplication | String match only | �?Semantic similarity |
+| Auto-compaction | �?| �?Age-based compaction |
+| Cross-project transfer | �?| �?Transferable patterns |
+| Team collaboration | �?| �?Git-friendly sharing |
+| State management | Basic lifecycle | �?Full state machine |
+| Category classification | 3 types | �?5 signal types |
+| Review cycle | �?| �?Weekly auto-review |
 
 ### vs Code Review Skill (GitHub)
 
 | Feature | code-review-skill | Super Reviewer |
 |---------|------------------|----------------|
-| Dimensions checked | 1 (style) | ✅ 7 dimensions |
-| Security analysis | ❌ | ✅ OWASP Top 10 |
-| Performance analysis | ❌ | ✅ N+1, leaks, complexity |
-| Architecture check | ❌ | ✅ SOLID, patterns |
-| Accessibility | ❌ | ✅ WCAG 2.1 AA |
-| Framework-specific | Generic | ✅ 6 frameworks |
-| Severity classification | ❌ | ✅ Critical/Warning/Info |
-| Fix suggestions | Basic | ✅ Copy-paste ready |
+| Dimensions checked | 1 (style) | �?7 dimensions |
+| Security analysis | �?| �?OWASP Top 10 |
+| Performance analysis | �?| �?N+1, leaks, complexity |
+| Architecture check | �?| �?SOLID, patterns |
+| Accessibility | �?| �?WCAG 2.1 AA |
+| Framework-specific | Generic | �?6 frameworks |
+| Severity classification | �?| �?Critical/Warning/Info |
+| Fix suggestions | Basic | �?Copy-paste ready |
 
 ---
 
-## 🏗️ Project Structure
+## 🏗�?Project Structure
 
 ```
 awesome-ai-agent-skills/
@@ -318,17 +318,17 @@ awesome-ai-agent-skills/
 ├── LICENSE                            # MIT License
 ├── .gitignore
 ├── scripts/
-│   ├── install.sh                     # macOS/Linux installer
-│   └── install.bat                    # Windows installer
+�?  ├── install.sh                     # macOS/Linux installer
+�?  └── install.bat                    # Windows installer
 ├── skills/
-│   ├── super-reviewer/
-│   │   └── SKILL.md                   # 7-in-1 code review engine
-│   ├── self-evolver-pro/
-│   │   └── SKILL.md                   # Self-improving memory system
-│   ├── context-master/
-│   │   └── SKILL.md                   # Intelligent context manager
-│   └── universal-hooks/
-│       └── SKILL.md                   # Zero-config quality gates
+�?  ├── super-reviewer/
+�?  �?  └── SKILL.md                   # 7-in-1 code review engine
+�?  ├── self-evolver-pro/
+�?  �?  └── SKILL.md                   # Self-improving memory system
+�?  ├── context-master/
+�?  �?  └── SKILL.md                   # Intelligent context manager
+�?  └── universal-hooks/
+�?      └── SKILL.md                   # Zero-config quality gates
 └── assets/
     └── (demo screenshots)
 ```
@@ -358,7 +358,7 @@ Contributions are welcome! Here's how:
 
 ## 📜 License
 
-[MIT License](LICENSE) — Use freely, modify freely, share freely.
+[MIT License](LICENSE) �?Use freely, modify freely, share freely.
 
 ---
 
@@ -366,17 +366,17 @@ Contributions are welcome! Here's how:
 
 These skills were built by studying and improving upon the most popular AI agent skills in the ecosystem:
 
-- [Self-Improving Agent](https://clawhub.ai) (15K downloads) — Improved with semantic dedup, auto-compaction, cross-project transfer
-- [ByteRover](https://clawhub.ai) (16K downloads) — Improved with intelligent lifecycle management
-- [Capability Evolver](https://clawhub.ai) (35K downloads) — Improved with structured signal types
-- [code-review-skill](https://github.com/awesome-skills/code-review-skill) — Expanded from 1 to 7 review dimensions
-- [Agent Skills Specification](https://openagentskills.dev/docs/specification) — Standard compliance
+- [Self-Improving Agent](https://clawhub.ai) (15K downloads) �?Improved with semantic dedup, auto-compaction, cross-project transfer
+- [ByteRover](https://clawhub.ai) (16K downloads) �?Improved with intelligent lifecycle management
+- [Capability Evolver](https://clawhub.ai) (35K downloads) �?Improved with structured signal types
+- [code-review-skill](https://github.com/awesome-skills/code-review-skill) �?Expanded from 1 to 7 review dimensions
+- [Agent Skills Specification](https://openagentskills.dev/docs/specification) �?Standard compliance
 
 ---
 
 <div align="center">
 
-### ⭐ Found this useful? Star it! You'll thank yourself later. ⭐
+### �?Found this useful? Star it! You'll thank yourself later. �?
 
 **One repo. Four skills. Every AI agent. Zero hassle.**
 
