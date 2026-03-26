@@ -2,7 +2,7 @@
 
 # 🔥 Awesome AI Agent Skills
 
-### 4 个生产级 Skill，让你的 AI 编程助手直接进化 10 倍
+### 5 个生产级 Skill，让你的 AI 编程助手直接进化 10 倍
 
 **兼容所有 AI 编程助手** — Claude Code、Codex CLI、Cursor、Windsurf、GitHub Copilot、CodeBuddy、OpenClaw，以及任何支持 SKILL.md 标准的 Agent
 

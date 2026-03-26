@@ -2,7 +2,7 @@
 
 # 🔥 Awesome AI Agent Skills
 
-### 4 Production-Grade Skills That Make Your AI Agent 10x Better
+### 5 Production-Grade Skills That Make Your AI Agent 10x Better
 
 **Compatible with ALL AI coding agents** — Claude Code, Codex CLI, Cursor, Windsurf, GitHub Copilot, CodeBuddy, OpenClaw, and any agent that supports SKILL.md
 
@@ -37,6 +37,7 @@ I spent weeks studying the **top 50 most popular AI agent skills** on ClawHub (3
 | Memory skills can't deduplicate | `Self-Improving Agent`, `ByteRover` | **self-evolver-pro**: Semantic dedup + auto-compaction |
 | Context gets lost in long sessions | Basic memory files | **context-master**: 3-tier context architecture |
 | Git hooks require manual setup | Scattered hook scripts | **universal-hooks**: Auto-detect stack, zero config |
+| Math hallucination/logic errors | `math-skill`, `calculator-skill` | **symcli-skill**: Deterministic symbolic engine |
 
 **Every skill here is a major upgrade** over the original popular version, fixing real user complaints from GitHub issues and community reviews.
 
@@ -131,34 +132,27 @@ The #1 complaint about memory skills: **"They store everything but can't dedupli
 
 ### 4. 🪝 Universal Hooks — Zero-Config Quality Gates
 
-**Replaces**: Manual pre-commit setup, scattered CI/CD templates
+... (content of Universal Hooks) ...
 
-**Say "setup git hooks" once, and never worry about code quality enforcement again.**
+---
 
-The skill **auto-detects your project stack** and installs exactly the hooks you need:
+### 5. 🧮 SymCLI — Symbolic Math & C# Analysis Engine
 
-| Auto-Detected Stack | Hooks Installed |
-|---------------------|----------------|
-| React / Next.js | Prettier + ESLint + TypeScript + Secrets detection |
-| Vue / Nuxt | Prettier + ESLint + TypeScript + Secrets detection |
-| Python / Django | Ruff + mypy + pytest + pip audit |
-| Go | gofmt + golint + go test + govulncheck |
-| Rust | rustfmt + Clippy + cargo test + cargo audit |
+**Replaces**: math-skill, calculator-skill, and manual logic/math reasoning
 
-**Quality gates included**:
-- Code formatting enforcement (with auto-fix)
-- Linting with zero warnings tolerance
-- Type checking (TypeScript, Python)
-- **Secrets detection** — prevents API keys in commits
-- **Conventional Commits** — enforces commit message format
-- **Protected branches** — blocks direct push to main/develop
-- **Dependency audit** — blocks pushes with known vulnerabilities
-- **AI code markers** — tracks AI-generated code for review
-- **Debug code detection** — catches console.log / debugger before commit
-- **Conflict markers** — catches leftover merge conflict markers
-- **Large file prevention** — warns on files > 500 KB
+LLMs often hallucinate complex math or miss subtle logic bugs in code. **SymCLI** provides a deterministic "System 2" engine for exact symbolic computation and C# mathematical safety analysis.
 
-**Plus**: GitHub Actions CI template included out of the box.
+| Capability | What It Does |
+|-----------|---------------|
+| 🔢 **Symbolic Math** | Solves algebraic, differential, and linear equations exactly (no floating point errors) |
+| 🚀 **Tensor Optimization** | Optimizes AI graph expressions (fusion, factoring, scale folding) |
+| 🛡️ **Math Safety Audit** | Scans C# code for numerical hazards, overflows, and logic vulnerabilities |
+| 🧩 **ProblemScript** | High-level DSL for complex multi-step mathematical reasoning |
+
+**Usage**:
+- "Solve this equation: x^2 - 5x + 6 = 0" → `x = 2, x = 3`
+- "Optimize this tensor graph" → Fused/optimized expression
+- "Audit this C# file for math bugs" → Structured report of `CSMATH` hazards
 
 ---
 
